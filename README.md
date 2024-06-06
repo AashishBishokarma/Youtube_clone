@@ -1,4 +1,6 @@
 # YouTube Clone
+![image](https://github.com/AashishBishokarma/Youtube_clone/assets/118736443/6c2dc94d-340d-46a8-a193-d150f4db1b26)
+
 
 ## Description
 
